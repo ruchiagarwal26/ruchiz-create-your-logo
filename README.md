@@ -2,6 +2,24 @@
 
 # 10 Object-oriented Programming: SVG Logo Maker
 
+Solution : 
+
+Github link: https://github.com/ruchiagarwal26/ruchiz-create-your-logo/
+
+This is an interactive cmd logo creating project. The user can input their choices on :
+
+>> three character text
+
+>> color of text
+
+>> select Shape around the text (rectangle, triangle or circle) 
+
+>> color to be filled in the shape
+
+Once all inputs are given a logo.svg file is created. This file can be opened in the web server and it will display the requested logo 
+
+Thank You.
+
 ## Your Task
 
 Your task is to build a Node.js command-line application that takes in user input to generate a logo and save it as an [SVG file](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics). The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
