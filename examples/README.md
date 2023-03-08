@@ -1,0 +1,1 @@
+{"text":"ff","text-color":"green","shape-logo":["Rectangle"],"shape-color":"yellow"}
