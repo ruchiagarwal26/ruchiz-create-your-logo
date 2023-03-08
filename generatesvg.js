@@ -12,6 +12,7 @@ function generatesvg(userResponse) {
     else if (userResponse.shapeLogo=="Triangle"){
         shape = new Triangle(color)
         }
+    shape.setColor(color);    
     return `
     <svg version="1.1"
      width="300" height="200"
@@ -20,7 +21,7 @@ function generatesvg(userResponse) {
     
     <text x="150" y="125" font-size="60" text-anchor="middle" fill="${userResponse.textColor}">${userResponse.text}</text>
 
-</svg>
+    </svg>
      `;
   }
   

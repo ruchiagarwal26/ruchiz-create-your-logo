@@ -17,7 +17,7 @@ const generatesvg = require('./generatesvg.js');
     },
     {
       type: 'input',
-      message: 'Please input text color ',
+      message: 'Please input text color keyword (OR a hexadecimal number)',
       name: 'textColor',
     },
     {
@@ -28,7 +28,7 @@ const generatesvg = require('./generatesvg.js');
       },
       {
         type: 'input',
-        message:'Please input the color of the shape ',
+        message:'Please input the color keyword (OR a hexadecimal number) of the shape ',
         name: 'shapeColor',
       }
   ];
@@ -49,10 +49,10 @@ console.log("writeResponse", writeResponse);
 // TODO: Create a function to initialize app
 async function init() {
 const userResponse = await inquirer.prompt(questions);
-writeToFile( "./examples/log.svg", JSON.stringify(userResponse))
+writeToFile( "./log.svg", JSON.stringify(userResponse))
 const svg = generatesvg(userResponse);
-console.log("svg: ", svg);
-await writeResponse ('./examples/log.svg', svg)
+console.log ("Generated logo.svg");
+await writeResponse ('./log.svg', svg)
 }
 
 // Function call to initialize app
