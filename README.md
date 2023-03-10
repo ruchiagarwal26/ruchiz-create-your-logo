@@ -7,6 +7,7 @@ Solution :
 Github link: https://github.com/ruchiagarwal26/ruchiz-create-your-logo/
 
 Video screenshot:
+Drive link: https://drive.google.com/file/d/142atd7dmKtpj5i2NLsLsD6kb6vCd5iHr/view
 
 ![image](https://user-images.githubusercontent.com/115508901/224195675-9967ddbb-274c-4b23-9bf5-63c1da7b3d82.png)
 
