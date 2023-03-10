@@ -6,6 +6,26 @@ Solution :
 
 Github link: https://github.com/ruchiagarwal26/ruchiz-create-your-logo/
 
+Video screenshot:
+
+![image](https://user-images.githubusercontent.com/115508901/224195675-9967ddbb-274c-4b23-9bf5-63c1da7b3d82.png)
+
+
+Shapes Jest Test :
+
+![image](https://user-images.githubusercontent.com/115508901/224196072-721bec9d-440a-48c7-828d-821ee1a64194.png)
+
+
+
+Logo Screenshot : 
+
+![image](https://user-images.githubusercontent.com/115508901/224195483-f53b06a9-a55b-4544-a31e-93fc4dcad914.png)
+
+![image](https://user-images.githubusercontent.com/115508901/224195523-fbbe9d41-176c-4973-a70f-e67a64270487.png)
+
+![image](https://user-images.githubusercontent.com/115508901/224195562-51703adb-32d0-4c28-9915-5b35d6a268bc.png)
+
+
 This is an interactive cmd logo creating project. The user can input their choices on :
 
 >> three character text
